@@ -6,3 +6,4 @@ The HTML portion of this homework wasn't too bad. It was short and simple based 
 The CSS for this homework was also very simplistic since this homework assignment is going to be based off mostly JavaScript.
 
 
+
